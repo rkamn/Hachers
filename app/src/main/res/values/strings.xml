@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hachers</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_profile">Profile</string>
+    <string name="action_dashboard">Dashboard</string>
+    <string name="action_logout">Logout</string>
+</resources>
